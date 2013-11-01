@@ -88,23 +88,198 @@ namespace unison
            }
            else
            {
-               for (int x = 69; x <= 80; x++)
-               {
-
-                   if (txtprom.Text == x.ToString())
+               
+                   if (txtprom.Text == 70.ToString())
                    {
                        resul = pago * des1;
                        resul2 = pago - resul;
                        r1[3] = resul2;
                    }
-                   else
+                   else if (txtprom.Text == 71.ToString())
+                   {
+                   resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 72.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 73.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 74.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 75.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 76.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 77.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 78.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 79.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 80.ToString())
+                   {
+                       resul = pago * des1;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if(txtprom.Text == 81.ToString())
                    {
                        resul = pago * desc2;
                        resul2 = pago - resul;
                        r1[3] = resul2;
                    }
+                   else if (txtprom.Text == 82.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 83.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 84.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 85.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 86.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 87.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 88.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 89.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 90.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 91.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 92.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 93.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 94.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 95.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 96.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 97.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 98.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+                   else if (txtprom.Text == 99.ToString())
+                   {
+                       resul = pago * desc2;
+                       resul2 = pago - resul;
+                       r1[3] = resul2;
+                   }
+
+                   else if (txtprom.Text == 100.ToString())
+                   {
+                       r1[3] = resul2;
+                   }
+                   else
+                   {
+                       r1[3] = pago;
+                   }
                }
-           }
+           
         }
 
         private void Agregar_Click(object sender, EventArgs e)
@@ -112,6 +287,7 @@ namespace unison
             Add();
             suma();
             contador();
+            limpiar();
         }
 
         private void Agregarre_Click(object sender, EventArgs e)
@@ -120,7 +296,7 @@ namespace unison
             contador2();
             suma2();
             limpiar();
-            
+            cbrep.Enabled = false;
         }
 
         private void suma()
@@ -185,8 +361,6 @@ namespace unison
             cbrep.ResetText();
         }
 
-       
-
         private void cbrep_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (cbrep.Text == "Si")
@@ -200,10 +374,13 @@ namespace unison
             }
             iregu.Text = rei.ToString();
             regu.Text = rer.ToString();
+            Agregarre.Enabled = true;
 
         }
 
-
-      
+        private void txtprom_TextChanged(object sender, EventArgs e)
+        {
+            cbrep.Enabled = true;
+        }
     }
 }
